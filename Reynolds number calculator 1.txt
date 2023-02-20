@@ -1,0 +1,1305 @@
+reynolds number
+
+Insert the information in the form and the calculator will determine the reynolds number.<br>
+What is the reynolds number?<br>
+The reynolds number is a factor in the prediction flowpatterns in different fluid flow situations by measuring the ratio between inertial and viscous forces.<br>
+How to calculate the reynolds number?<br>
+To calculate the reynolds number you should use the following formula:<br>
+Re = ρuL / µ <br>
+where:<br>
+Re = reynolds number<br>
+ρ = density of the fluid<br>
+u = flow speed<br>
+L = characteristic linear dimension<br>
+µ = dynamic viscosity of the fluid<br>
+Why use the reynolds number?<br>
+The reynolds number is used in order to get some sense of the relationship in fluid flow between inertial forces.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Resonant frequency
+(maybe resonance calculator)
+
+Insert the information in the form and the calculator will determine the Resonant frequency.<br>
+What is the Resonant frequency?<br>
+Rosonance is a describtion of the phenomenon of increased amplitude that occurs when the frequency of an applied periodic force is equal or close to a natural frequency of the system on which it acts.<br>
+How to calculate the Resonant frequency?<br>
+To calculate the Resonant frequency you should use the following formula:<br>
+fo = 1/2 pi (Lc)^1/2 <br>
+where:<br>
+fo = rsonant frequency <br>
+L = inductance of circuit <br>
+c = capacitance of circuit <br>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+resistivity calculator
+
+Insert the information in the form and the calculator will determine the resistivity.<br>
+What is the resistivity?<br>
+Electrical resistivity is a fundamental property of a material that measures how strongly it resists electric current. It is represented by the greek letter ρ. The electrical resistivity unit is ohm-meter.<br>
+How to calculate the resistivity?<br>
+To calculate the resistivity you should use the following formula:<br>
+ρ = R A / I<br>
+Why use the reynolds number?<br>
+The reynolds number is used in order to simultaneously detect lateral and vertical changes in subsurface electrical properties.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+reluctance calculator
+
+Insert the information in the form and the calculator will determine the reluctance.<br>
+What is the reluctance?<br>
+Reluctance is a measurement of the resistance of a closed magnetic circuit to a magnetic fluc, equal to the ratio of the magnetomotive force to the magnetic flux.<br>
+How to calculate the reluctance?<br>
+To calculate the reluctance you should use the following formula:<br>
+R = F / 𝛟<br>
+where:<br>
+R = reluctance in ampere-turns per weber<br>
+F = magnetomotive force<br>
+𝛟 = magnetic flux in webers<br>
+Why use the reynolds number?<br>
+The reynolds number is used in order to deliver very high power density at low cost.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+radiation heat transfer calculator
+
+Insert the information in the form and the calculator will determine the radiation heat transfer.<br>
+What is the radiation heat transfer?<br>
+radiation heat transfer is a process where heat waves are emitted that may be absorbed, reflected or transmitted through acolder body.<br>
+How to calculate the radiation heat transfer?<br>
+To calculate the radiation heat transfer you should use the following formula:<br>
+some shit<br>
+Why use the reynolds number?<br>
+Radiation heat transfer can be important insituations in which there is an interventing medium.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+pump efficiency calculator
+
+Insert the information in the form and the calculator will determine the pump efficiency.<br>
+What is the pump efficiency?<br>
+pump efficiency is the ratio of useful hydraulic power delivered to the fluid to the power input at the drive shaft.<br>
+How to calculate the pump efficiency?<br>
+To calculate the pump efficiency you should use the following formula:<br>
+pump efficiency = output / input<br>
+Why use the pump efficiency?<br>
+pump efficiency is used in order to save money.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+pressure drop in circular pipes calculator
+(maybe pressure drop calculator)
+
+Insert the information in the form and the calculator will determine the pressure drop in circular pipes.<br>
+What is the pressure drop in circular pipes?<br>
+pressure drop is the difference in pressure between two points provided that there is a fluid flow between those points.<br>
+How to calculate the pressure drop in circular pipes?<br>
+To calculate the pressure drop in circular pipes you should use the following formula:<br>
+Δp = f (L/D) (ρ/gc) (v^2/z)<br>
+where:<br>
+Δp = pressure drop<br>
+f = friction factor<br>
+L = length of pipe<br>
+D = internal diameter of pipe<br>
+ρ = fluid density at mean temperature<br>
+v= average velocity<br>
+gc = units conversion factor<br>
+Why use the pressure drop in circular pipes?<br>
+pressure drop in circular pipes is used in order to allow process plant engineers to determine the size of the pumps, motors needed and the process pipe diameter required to move a particular type of product through a piping system.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+power density calculator
+
+Insert the information in the form and the calculator will determine the power density.<br>
+What is the power density?<br>
+Power density is the amount of power per unit volume. It refers to a volume where it is usually called volume power density. It is measured by w/m^3.<br>
+How to calculate the power density?<br>
+To calculate the power density you should use the following formula:<br>
+S = (P * G) / (4 * pi * R^2)<br>
+where:<br>
+S = power density<br>
+P = power input<br>
+G = power gain<br>
+R = Distance to the center of radiation of antenna<br>
+Why use the power density?<br>
+The power density is useful for conversations about energy systems.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+potential difference calculator
+
+Insert the information in the form and the calculator will determine the potential difference.<br>
+What is the potential difference?<br>
+potential difference is the difference in electric potential between two points. In a static electric field, it corresponds to the work needed per unit of charge to move a test charge between two points. It is also known as voltage or electric pressure.<br>
+How to calculate the potential difference?<br>
+To calculate the potential difference you should use the following formula:<br>
+V = I*R<br>
+where:<br>
+V = voltage<br>
+I = current<br>
+R = resistance<br>
+Why use the potential difference?<br>
+The potential difference is used in order to compare points when figuring out how they will ineract with a single charge.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+normal force calculator
+
+Insert the information in the form and the calculator will determine the normal force.<br>
+What is the normal force?<br>
+Normal force is the component of acount fore that perpendicular to the surface that an object contacts.<br>
+How to calculate the normal force?<br>
+To calculate the normal force you should use the following formula:<br>
+FN = mgcosθ<br>
+where:<br>
+FN = normal force<br>
+m = mass<br>
+g = acceleration due to gravity<br>
+θ = inclination angl<br>
+Why use the normal force?<br>
+The normal force is used in order to keep a surface solid because without normal force, an object would pass right through a surface.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Newton's law of cooling calculator<br>
+
+Insert the information in the form and the calculator will determine the newton's law of cooling.<br>
+What is the newton's law of cooling?<br>
+Newton's law of cooling is a physical law which states that the rate of heat loss of a body is directly prportioinal to the difference in the temperatures between the body and it's environment<br>
+How to calculate the Newton's law of cooling?<br>
+To calculate the Newton's law of cooling you should use the following formula:<br>
+Q = h . A . (T(t)-Tenv)<br>
+where:<br>
+Q = rate of heat transfer out of the body<br>
+h = heat transfer coefficient<br>
+A = heat transfer surface area<br>
+T = temperature of the object's surface<br>
+Tenv = temperature of the environment<br>
+T(t)  = time_dependent temperature<br>
+Why use the Newton's law of cooling?<br>
+The Newton's law of cooling is used in order to explain how quick a hot object can cool down.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+mechanical advantage calculator<br>1
+
+Insert the information in the form and the calculator will determine the mechanical advantage.<br>
+What is the mechanical advantage?<br>
+The mechanical advantage is a measurement of the ratio of output force to input force in a system.<br>
+How to calculate the mechanical advantage?<br>
+To calculate the mechanical advantage you should use the following formula:<br>
+MA = F0 / Fi<br>
+where:<br>
+MA = mechanical advantage<br>
+Fo = output force<br>
+Fi = input force<br>
+Why use the mechanical advantage?<br>
+The mechanical advantage is used in order to allow humans to perform tasks much easier in terms of the force they need to apply.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+mass flow rate calculator<br>2
+
+Insert the information in the form and the calculator will determine the mass flow rate.<br>
+What is the mass flow rate?<br>
+Mass flow rate is the mass of a substance which passes per unit of time. It is measured by kg/s.<br>
+How to calculate the mass flow rate?<br>
+To calculate the mass flow rate you should use the following formula:<br>
+m. = dm / dt<br>
+where:<br>
+m. = mass flow<br>
+dm = change in mass<br>
+dt = change in time<br>
+Why use the mass flow rate?<br>
+The mass flow rate is used in order to eliminate the inaccuracies caused by the phusical properties of the fluid.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+magnetomotive force calculator<br>3
+
+Insert the information in the form and the calculator will determine the magnetomotive force.<br>
+What is the magnetomotive force?<br>
+magnetomotive force is the property of certain substances or phenomena that gives rise to magnetic fields.<br>
+How to calculate the magnetomotive force?<br>
+To calculate the magnetomotive force you should use the following formula:<br>
+Fm = NI - turns<br>
+where:<br>
+Fm = magnetomotive force 
+N = number of conductors 
+I = crrent
+Why use the magnetomotive force?<br>
+The magnetomotive force is used in order to measure how many magnetic fields can the substance rise.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+magnetic field strength calculator<br>4
+
+Insert the information in the form and the calculator will determine the magnetic field strength.<br>
+What is the magnetic field strength?<br>
+The magnetic field strength is the part of the magnetic field in a material that arises from an external current and is not intrinsic to material itself.<br>
+How to calculate the magnetic field strength?<br>
+To calculate the magnetic field strength you should use the following formula:<br>
+H = 1/2 * pi * r<br>
+Why use the magnetic field strength?<br>
+The magnetic field strength is used in order to measure the strength or the weakness of the magnetic field.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Linear momentum calculator<br>5
+
+Insert the information in the form and the calculator will determine the Linear momentum.<br>
+What is the Linear momentum?<br>
+Momentum is the product of the mass and velocity of an object. It is a vector quantity and it possess a magnitude and a direction.<br>
+How to calculate the Linear momentum?<br>
+To calculate the Linear momentum you should use the following formula:<br>
+p = m v<br>
+where:<br>
+p = momentum<br>
+m = mass<br>
+v = velocity<br>
+Why use the Linear momentum?<br>
+The Linear momentum is useful in cases where there is a few objects which interact with each other but not with the rest of the world.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+laser power density calculator<br>1
+
+Insert the information in the form and the calculator will determine the laser power density.<br>
+What is the laser power density?<br>
+The power density is the ratio of power in watt to the cross section area.<br>
+How to calculate the laser power density?<br>
+To calculate the laser power density you should use the following formula:<br>
+power density = p / A<br>
+where:<br>
+p = power<br>
+a = cross section area<br>
+Why use the laser power density?<br>
+The laser power density is used in order to determine whether a beam will damage an optic or detector.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+kinetic friction calculator<br>2
+
+Insert the information in the form and the calculator will determine the kinetic friction.<br>
+What is the kinetic friction?<br>
+Kinetic friction is the force that acts between moving surfaces.<br>
+How to calculate the kinetic friction?<br>
+To calculate the kinetic friction you should use the following formula:<br>
+Ff = µk<br>
+where:<br>
+Why use the kinetic friction?<br>
+The kinetic friction is used in order to interfers motion of two or more objects.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+kinematic equations calculator<br>3
+
+Insert the information in the form and the calculator will determine the kinematic equations.<br>
+What is the kinematic equations?<br>
+The kinematic equations are a set of equations that describe the motion of an object with constant acceleration.<br>
+How to calculate the kinematic equations?<br>
+To calculate the kinematic equations you should use the following formula:<br>
+v = u + at<br>
+v^2 = u^2 + 2as<br>
+s = ut + 1/2 a t^2<br>
+Why use the kinematic equations?<br>
+The kinematic equations is used in order to solve for an unknown in a problem when an object has either a constant velocity or constant acceleration.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+instantaneous velocity calculator<br>4
+
+Insert the information in the form and the calculator will determine the instantaneous velocity.<br>
+What is the instantaneous velocity?<br>
+Instantaneous velocity is the rate of change of position for a time interval which is very small (almost zero).<br>
+How to calculate the instantaneous velocity?<br>
+To calculate the instantaneous velocity you should use the following formula:<br>
+vint = limΔt ---> 0(Δx/Δt) = dx/dt<br>
+Why use the instantaneous velocity?<br>
+The instantaneous velocity is used in order to measure how quickly an object is going somewhere along it's route.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+inductive reactance calculator<br>5
+
+Insert the information in the form and the calculator will determine the inductive reactance.<br>
+What is the inductive reactance?<br>
+Inductive reactance is the opposition offered by the indicator in an ac circuit to the flow of ac current.<br>
+How to calculate the inductive reactance?<br>
+To calculate the inductive reactance you should use the following formula:<br>
+xL = 2 pi FL<br>
+Why use the inductive reactance?<br>
+The inductive reactance is used in order to resist the change in alternating current through it.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+hydraulic radius calculator<br>6
+
+Insert the information in the form and the calculator will determine the hydraulic radius.<br>
+What is the hydraulic radius?<br>
+Hydraulic radius is the area of the flow section divided by the wetted perimeter. It is expressed as Rh.<br>
+How to calculate the hydraulic radius?<br>
+To calculate the hydraulic radius you should use the following formula:<br>
+R = A / P<br>
+Why use the hydraulic radius?<br>
+The hydraulic radius is used in order to determine how much water can flow through the channel.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+hydraulic horsepower calculator<br>7
+
+Insert the information in the form and the calculator will determine the hydraulic horsepower.<br>
+What is the hydraulic horsepower?<br>
+hydraulic horsepower is the horsepower equivalent of lifting a continous volume rate of fluid to the height in ft representaed by the pressure involved.<br>
+How to calculate the hydraulic horsepower?<br>
+To calculate the hydraulic horsepower you should use the following formula:<br>
+hydraulic horsepower = (P * Q) / 1714<br>
+where:<br>
+P = pressure<br>
+Q = flow rate<br>
+Why use the hydraulic horsepower?<br>
+The hydraulic horsepower is used in order to estimate the operating requirements and it is also used in sizing equipment.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+horizontal velocity calculator<br>1
+
+Insert the information in the form and the calculator will determine the horizontal velocity.<br>
+What is the horizontal velocity?<br>
+The horizontal velocity is the velocity of any projectile along a horizontal path.<br>
+How to calculate the horizontal velocity?<br>
+To calculate the horizontal velocity you should use the following formula:<br>
+vo = d/t<br>
+where:<br>
+d = diameter<br>
+t = time<br>
+Why use the horizontal velocity?<br>
+The horizontal velocity is used in order to measure the velocity of any projectile along a horizontal path.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+horizontal distance calculator<br>2
+
+Insert the information in the form and the calculator will determine the horizontal distance.<br>
+What is the horizontal distance?<br>
+Horizontal distance is the distance between two points measured at a zero percent slope.<br>
+How to calculate the horizontal distance?<br>
+To calculate the horizontal distance you should use the following formula:<br>
+x = v * t<br>
+Why use the horizontal distance?<br>
+The distance between two points measured at a zero percent slop.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+horizontal distance calculator<br>3
+
+Insert the information in the form and the calculator will determine the horizontal distance.<br>
+What is the horizontal distance?<br>
+Hooke's law states that the strain of the material is proportional to the applied stress within the elastic limit of that material.<br>
+How to calculate the horizontal distance?<br>
+To calculate the horizontal distance you should use the following formula:<br>
+Fs = -k x<br>
+where:<br>
+Fs = spring force<br>
+k = spring constant<br>
+x = spring stretch or compression<br>
+Why use the horizontal distance?<br>
+Hooke's law is used in order to ensure that the components can withstand a specific level of force that is calculated previously.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+heat transfer calculator<br>4
+
+Insert the information in the form and the calculator will determine the heat transfer.<br>
+What is the heat transfer?<br>
+The heat transfer is a describtion of the kinetics of energy storage, transport and energy transformation by principal energy carries phonos, electrons, fluid particles and photons.<br>
+How to calculate the heat transfer?<br>
+To calculate the heat transfer you should use the following formula:<br>
+Q = m c ΔT<br>
+where:
+Q = heat transfered
+m = mass 
+c = specific heat 
+ΔT = difference in temperature
+where:<br>
+Fs = spring force<br>
+k = spring constant<br>
+x = spring stretch or compression<br>
+Why use the heat transfer?<br>
+The heat transfer is used in order to preserve, increase or decrease the temperature in a wide variety of circumstances.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+heat transfer calculator<br>5
+
+Insert the information in the form and the calculator will determine the heat transfer.<br>
+What is the heat transfer?<br>
+The heat transfer is a describtion of the kinetics of energy storage, transport and energy transformation by principal energy carries phonos, electrons, fluid particles and photons.<br>
+How to calculate the heat transfer?<br>
+To calculate the heat transfer you should use the following formula:<br>
+Q = m c ΔT<br>
+where:
+Q = heat transfered
+m = mass 
+c = specific heat 
+ΔT = difference in temperature
+where:<br>
+Fs = spring force<br>
+k = spring constant<br>
+x = spring stretch or compression<br>
+Why use the heat transfer?<br>
+The heat transfer is used in order to preserve, increase or decrease the temperature in a wide variety of circumstances.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+heat capacity calculator<br>6
+
+Insert the information in the form and the calculator will determine the heat capacity.<br>
+What is the heat capacity?<br>
+The heat capacity is a physical property of matter and it is the ammount of that should be supplied to an object in order to produce a unit change in it's temperature. It is measured by J/k.<br>
+How to calculate the heat capacity?<br>
+To calculate the heat capacity you should use the following formula:<br>
+Q = m c ΔT<br>
+where:<br>
+Q = heat energy<br>
+m = mass<br>
+c = specific heat capacity<br>
+ΔT = change in temperature<br>
+where:<br>
+Fs = spring force<br>
+k = spring constant<br>
+x = spring stretch or compression<br>
+Why use the heat capacity?<br>
+Heat capacity is used in order to determint the processing temperatures and and amount of heat necessary for processing and can be helpful in differentiating between two polymeric composites.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+gravitational potential energy calculator<br>7
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Gravitational potential energy is the potential energy that a massive object has in relation to other massive ovject due to gravity.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+V = mgh<br>
+where:<br>
+V = gravitational energy<br>
+m = mass<br>
+g = gravitational field<br>
+h = height<br>
+where:<br>
+Fs = spring force<br>
+k = spring constant<br>
+x = spring stretch or compression<br>
+Why use the gravitational potential energy?<br>
+The gravitational potential energy is used in order to measure the potential energy that a massive object has in relation to other massive object due to gravity.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+gravitational acceleration calculator<br>8
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The gravitational acceleration is a term that indicates the intensity of a gravitaional field. It is expressed by the letter g and it's unit is m/s^2.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+g = -(GMr~ / r^2)<br>
+where:<br>
+g = gravitational acceleration<br>
+G = gravitational constant<br>
+M = mass of the field sourse<br>
+r = distance between the two point-like masses<br>
+r~ = unit vector directed from the field source to the smaller sample mass<br>
+Why use the gravitational potential energy?<br>
+The gravitational acceleration calculator is used in order to measure the intensity of a gravitational field.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+froude number calculator<br>9
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The froude number is a dimensionless number and basicaly it is the ratio of teh flow inertia to the external field.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Fr = v / (gd)^1/2<br>
+where:<br>
+Fr = froude number<br>
+d = debth of flow<br>
+g= gravitational acceleration = 9.8 m/s^2<br>
+v = celerity of a small surface wave<br>
+Why use the gravitational potential energy?<br>
+The froude number is used in order to delineate the boundary between laminar and turbulent flow conditions in open channels.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Force of friction calculator<br>1
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Force of friction is the force that is generated by two surfaces that contact and slide against each other. The force of friction is affected by the surface texture and the amount of force impelling them together.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+f = µ N<br>
+where:<br>
+f = friction force<br>
+µ = coefficient of friction<br>
+N = normal force<br>
+Why use the gravitational potential energy?<br>
+The Force of friction is used in order to slow things down and stop stationary things from moving.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+fluid density calculator<br>2
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Fluid density is the substance's mass per unit of volume. In other words it is the mass divided by volume. The fluid density is expressed by the symbol ρ.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+ρ = m / v<br>
+where:<br>
+ρ = density<br>
+m = mass<br>
+v = volume<br>
+Why use the gravitational potential energy?<br>
+Fluid density measurement is used in order to specify and descrive a pure substance and it is also used to determine concentrations of binary mixtures and therefore gives information about the composition of mixtures.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Flow rate calculator<br>3
+(maybe volumetric flow rate)<br>
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The flow rate is the volume of fluid which passes per unit time. It is represented by the symbol Q.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Q = v A<br>
+where:<br>
+Q = volumetric flow rate<br>
+v = flow velocity<br>
+A = cross-sectional vector are<br>
+Why use the gravitational potential energy?<br>
+Flow rate measurement is used to control and monitor the rate of liquid flow within applications and ensure that fluid control processes are running safely and cost-effectively.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+escape velocity calculator<br>4
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Escape velocity is the speed at which an object travels to break free either the planet's or moon's gravity and leave without any development of propulsion.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Ve = ((2 G M) / r)^1/2<br>
+where:<br>
+Ve = escape velocity<br>
+G = universal gravitational constant<br>
+M = mass of the body to be escaped from<br>
+r = distance from the center of the mass<br>
+Why use the gravitational potential energy?<br>
+The escape velocity is used in order to determine the speed at which the object should travel to break free from the planet's or moon's gravity.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Engine swept volume calculator<br>1
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Swept volume is the volume of oil that is swept or displaced by the actuator piston during an opening or closing cycle.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Vs = (((pi / 4) * D^2) * L)<br>
+where:<br>
+Vs = swept volume<br>
+D = inner diameter of cylinder<br>
+L = stroke length<br>
+Why use the gravitational potential energy?<br>
+The engine swept volume is used in order to determine the capacity of the engine.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+electromotive force (EMF) calculator<br>2
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Electromotive force (EMF) is an energy transfer to an electric circuit per unit of electric charge. It is measured in volts.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+E = W / Q<br>
+where:<br>
+E = electromotive force<br>
+W = work done<br>
+Q = charge<br>
+Why use the gravitational potential energy?<br>
+The electromotive force (EMF) is used in order to convert energy from one form to another.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Electrical conductivity calculator<br>3
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The electrical conductivity is a fundimental property of a material that measures how strongly it resists electric current. It is represented by the greek letter ρ.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+R = (l/A) * ρ<br>
+where:<br>
+R = conductivity<br>
+l = distance<br>
+ρ = specific resistance<br>
+Why use the gravitational potential energy?<br>
+The Electrical conductivity is used in order to measure when undertaking environmental or process monitoring.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Electrical conductivity calculator<br>4
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The electrical conductivity is a fundimental property of a material that measures how strongly it resists electric current. It is represented by the greek letter ρ.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+R = (l/A) * ρ<br>
+where:<br>
+R = conductivity<br>
+l = distance<br>
+ρ = specific resistance<br>
+Why use the gravitational potential energy?<br>
+The Electrical conductivity is used in order to measure when undertaking environmental or process monitoring.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+elastic potential energy calculator<br>5
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Elastic potential energy is the energy that is sorted as a result of applying a force to deform an elastic object.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+U = 1/2 K Δx^2<br>
+where:<br>
+U = elastic energy<br>
+K = spring constant<br>
+Δx = change in position<br>
+Why use the gravitational potential energy?<br>
+The elastic potential energy is used in order to measure the applied force that is used to deform an elastic object.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+efficiency calculator<br>6
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The efficiency is a dimensionless number that measures the effectiveness of a machanism or machine in transforming the power input to the device to power output.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Efficiency = usefulpower out / total power<br>
+Why use the gravitational potential energy?<br>
+The efficiency is used in order to minimize the wasted energy as much as possible.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+efficiency gear ratio calculator<br>7
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Gear ratio is the ratio of external ground reaction force moment arm to internal muscle-tendom moment arm.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Actual numerical gear ratio = (RPM * tire diameter inches) / (final drive ratio * transmission gear ratio * 336)<br>
+Why use the gravitational potential energy?<br>
+The efficiency gear ratio is used in order to calculate the gear ratio.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+drift velocity calculator<br>8
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Drift velocity is the average velocity attained by charged particles, such as electrons in a material due to an electric field.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Vd = I / (ne A)<br>
+where:<br>
+Vd = drift velocity<br>
+I = current flow<br>
+n = free electron density<br>
+e = charge of an electron<br>
+A = cross sectional area<br>
+Why use the gravitational potential energy?<br>
+The drift velocity is used in order to contribute to the lectric current.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Doppler effect approaching sourse calculator<br>9
+
+There is only one Doppler effect calculater and it is doppler effect approaching reciever calculater and it should be called doppler effect
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+doppler effect approaching receiver calculator<br>10
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Doppler effect is a calculation of the new frequency of approaching receiver.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+f' = fo (1 = ur / v)<br>
+Why use the gravitational potential energy?<br>
+Doppler effect calculator is used in order to calcualte the new frequency of approaching receiver.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Deceleration calculator<br>11
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Deceleration is the amount of speed reduction by a specific object in a specific time period. In simple words it is the opposite of acceleration and it's unit is m/s^2.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Deceleration = (Final velocity - Initial velocity) / Time<br>
+Why use the gravitational potential energy?<br>
+The deceleration is used in order to reduce the speed of an object in a specific time period.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+cylinder swept volume calculator<br>1
+(maybe swept volume calculater)
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Swept volume is the volume of oil that is swept or displaced by the actuar piston during an opening or closing cycle.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Volume = pi * bore radius squared * exposed cylinder height<br>
+Why use the gravitational potential energy?<br>
+The cylinder swept volume is used in order to indicate how much air the piston displaces as it moves from BDC to TDC.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+current density calculator<br>2
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The current density is the amount of electric current traveling per unit cross section area. The unit of current density is A / m^2.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+j = ρ v<br>
+where:<br>
+j = electric current density<br>
+v = velocity of the charges<br>
+ρ = charge density<br>
+Why use the gravitational potential energy?<br>
+The current density is used in order to the design of electrical and electronic systems.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+crawl ratio calculator<br>3
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Crawl ratio is a term used in automotive world to descrive the highest gear ratio that a vehicle is capable of.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+crawl ratio = TR * TCR * AGR<br>
+where:<br>
+TR = transmission first gear ratio<br>
+TCR = transfer case low gear ratio<br>
+AGR = axle gear ratio<br>
+Why use the gravitational potential energy?<br>
+The crawl ratio is used in order to descrive the highest gear ratio that a vehicle is capable of.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+convection heat transfer calculator<br>4
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Convection heat transfer is the process of transfer of heat from one place to another due to the movement of fluid although discussed as a distinct method of heat transfer. Convection is usually the dominant form of heat transfer in liquids and gases.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Q = h A ΔT<br>
+where:<br>
+Q = heat transfer rate<br>
+h = convection heat-transfer coefficient<br>
+A = exposed surface area<br>
+ΔT = temperature difference<br>
+Why use the gravitational potential energy?<br>
+Convection heat transfer is used in order to move the heat energy from place to place usually in fluids.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+conduction heat transfer calculator<br>5
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Conduction heat transfer is the process by which heat is transferred from the hotter end to the colder end of an object. It is denoted by K.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+q = -k ∇T<br>
+where:<br>
+q = local heat flux density<br>
+-k = materials conductivity<br>
+∇T = temperature gradient<br>
+Why use the gravitational potential energy?<br>
+conduction heat transfer is used in order to move the heat energy from place to place.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+compression ratio calculator<br>6
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Compression ratio is the ratio between the volume of the cylinder and combustion chamber in an internal combustion engine at their maximum and minimum values.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+CR = (Vd + Vc) / Vc<br>
+where:<br>
+CR = static compression ratio<br>
+Vd = displacement volume<br>
+Vc = clearance volume<br>
+Why use the gravitational potential energy?<br>
+The compression ratio us used in order to allow an engine to extract more mechanical energy from a given mass of air-fuel mixture due to it's higher thermal efficiency.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+compressibility calculator<br>7
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The compressibility is ameasurement of the instantaneous relative volume change of a fluid or solid as a response to pressure change.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+β = -(1/v) (∂v / ∂p)<br>
+where:<br>
+β = compressibility<br>
+v = volume<br>
+p = pressure<br>
+Why use the gravitational potential energy?<br>
+Compressibility is used in order to measure the ability of something to reduce it's size or volume by application of pressure.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+cloud base calculator<br>8
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The cloud base is the minimum altitude at which clouds can be formed.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+cloud base = (temperature - dew point)<br>
+Why use the gravitational potential energy?<br>
+The cloud base calculator is used in order to determine the minimum altitude at which clouds can be formed.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+circular frequency calculator<br>9
+
+Same as angular frequency
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+centripetal force calculator<br>10
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Centripetal force is the force that makes a body follow a curved path and it's direction is orthogonal to the motion of the body and towards the fixed point of the instantaneous center of curvature of the path.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Fc = (m v^2) / r<br>
+where:<br>
+Fc = centipetal<br>
+m = mass<br>
+v = velocity<br>
+r = radius<br>
+Why use the gravitational potential energy?<br>
+The centripetal force is used in order to alter the direction of a specific object.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+centripetal acceleration calculator<br>11
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Centripetal acceleration is the property of the motion of a specific object traversing a circular path. Simply it is an object that is moving in a circle and has an acceleration vector pointed towards the center of that circle.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+ac = v^2 / r<br>
+where:<br>
+ac = centripetal acceleration<br>
+v = velocity<br>
+r = radius<br>
+Why use the gravitational potential energy?<br>
+The centripetal acceleration calculator is used in order to determine the centripetal acceleration.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+centripetal acceleration calculator<br>11
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Centripetal acceleration is the property of the motion of a specific object traversing a circular path. Simply it is an object that is moving in a circle and has an acceleration vector pointed towards the center of that circle.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+ac = v^2 / r<br>
+where:<br>
+ac = centripetal acceleration<br>
+v = velocity<br>
+r = radius<br>
+Why use the gravitational potential energy?<br>
+The centripetal acceleration calculator is used in order to determine the centripetal acceleration.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+center of mass calculator<br>1
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The center of mass is a position defined to a specific object or system of objects. It is the average position of all the parts of the system weighted according to their masses.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Xcm = (m1 x1 + m2 x2) / (m1 + m2)<br>
+Why use the gravitational potential energy?<br>
+The center of mass is used in order to solve mechanics problems where we have to describe the motion of oddly-shaped objects and complicated systems.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+capacitive reactance calculator<br>2
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The capacitive reactance is the measurement of the opposition to alternating current by the capacitor.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+x = 1 /(3 * pi * f * c)<br>
+or<br>
+x = 1 / (w * c)<br>
+where:<br>
+x = capacitive reactance<br>
+c = capacitor<br>
+w = angular frequency = 2 * pi * f<br>
+Why use the gravitational potential energy?<br>
+The capacitive reactance is used in order to reduce the effects of any unwanted ripple voltage.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+buoyant force calculator<br>3
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The buoyant force is the upward force exerted on an object wholly or partly immersed in a fluid and this upward force is sometimes called upthrust.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+Fb = -ρgv<br>
+where:<br>
+Fb = buoyant force<br>
+ρ = fluid density<br>
+g = acceleration due to gravity<br>
+v = fluid volume<br>
+Why use the gravitational potential energy?<br>
+The buoyant force has alot of uses and one of them is that it helps the swimmer to stay closer to the surface.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+bulk modulus calculator<br>4
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The bulk modulus is a measurement of the ability of a substance to withstand changes in volume when under compression on all sides.<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+k = -v (dp / dv)<br>
+where:<br>
+k = bulk modulus<br>
+p = pressure<br>
+v = initial volume of the substance<br>
+Why use the gravitational potential energy?<br>
+the bulk modulus is used in order to predict the compression, calculate the density and indirectly indicate types of chemical bonding within a substance.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+brake horsepower calculator<br>5
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Brake horsepower is the horsepower of an engine measured by the degree of resistance offered by a brake that represents the useful power that the machine can develop<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+BHP = (Q * H * SG) / (3960 * eff)<br>
+where:<br>
+BHP = brake horsepower<br>
+H = pump head (ft)<br>
+Q = flow (gpm) gallons per minute<br>
+SG = specific gravity of the fluid being pumped<br>
+eff = pump's efficiency<br>
+Why use the gravitational potential energy?<br>
+The brake horsepower is used to ensure that the output of a motor is strong enough to drive both the motor and any auxiliary components and it is also used to determine the power that must be produced to allow the motor to function at peak efficiency with the core functions.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+average velocity calculator<br>6
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The average velocity is the change in position or displacement divided by the time intervals in which the displacement occurs<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+V/ = average velocity<br>
+Δx = displacement<br>
+Δt = change in time<br>
+Why use the gravitational potential energy?<br>
+The average velocity is used in order to describe the rate of motion over a path.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+average speed calculator<br>7
+(maybe velocity calculator)
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+Velocity is the directional speed of an object in motion as an indication of it's rate of change in position as observed from a particular frame of reference and as measured by a particular standard of time<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+v/ = Δx / Δt<br>
+V/ = average velocity<br>
+Δx = displacement<br>
+Δt = change in time<br>
+Why use the gravitational potential energy?<br>
+The average speed is used inorder to describe the rate of otion over a path.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+average force calculator<br>8
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The average force is the force exerted by some object moving at some defined rate of speed. In simple words it is the velocity for a specific period of time<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+
+
+Why use the gravitational potential energy?<br>
+The average force is used in order to measure the rate of change of momentum for any number of time intervals.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+average acceleration calculator<br>9
+
+Insert the information in the form and the calculator will determine the gravitational potential energy.<br>
+What is the gravitational potential energy?<br>
+The average acceleration is the force exerted by some object moving at some defined rate of speed. In simple words it is the velocity for a specific period of time<br>
+How to calculate the gravitational potential energy?<br>
+To calculate the gravitational potential energy you should use the following formula:<br>
+
+
+Why use the gravitational potential energy?<br>
+The average acceleration is used in order to measure the rate of change of momentum for any number of time intervals.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
